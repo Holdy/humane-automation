@@ -1,0 +1,6 @@
+get http://discovery.myhue.com
+
+for each item in the list
+   map id to id
+   map internalipaddress to internal ip address
+   
