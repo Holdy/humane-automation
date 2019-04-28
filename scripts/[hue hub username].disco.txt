@@ -1,0 +1,7 @@
+
+post 
+   {"id":"bobobo"}	
+   to 
+   https://[ip address of hue hub]/api .
+
+get [hue hub username] from field x.

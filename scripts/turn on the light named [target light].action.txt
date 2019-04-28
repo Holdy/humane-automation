@@ -1,0 +1,3 @@
+
+
+get https://[hue hub ip]/api/[username for hue hub]/light/[target]
