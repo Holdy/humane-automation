@@ -26,8 +26,8 @@ When [local hue hub list] is referenced, the engine will first look if the data 
 If it is, the data is used from that location.
 
 If not, the engine will look for metadata.
--/.erm/meta/local hue hub list.disco.txt
 
+humane-automation-root/scripts/meta/local hue hub list.disco.txt
 
 this may contain:
    
@@ -35,8 +35,8 @@ this may contain:
 
    for each entry in the list
 	map id to id
-	map internal ip address to internal ip address
-
+	map internalipaddress to internal ip address
+	set type to 'philips hue hub'
 
 
 
