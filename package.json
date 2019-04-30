@@ -1,0 +1,22 @@
+{
+  "name": "humane-automation",
+  "version": "1.0.0",
+  "description": "in ~/.erm/data",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Holdy/humane-automation.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Holdy/humane-automation/issues"
+  },
+  "homepage": "https://github.com/Holdy/humane-automation#readme"
+}
